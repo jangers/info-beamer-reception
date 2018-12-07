@@ -59,6 +59,8 @@
                 ["10", "10 seconds"],
                 ["15", "15 seconds"],
                 ["20", "20 seconds"]
+				["60", "1 Minute"]
+				["120", "2 Minuten"]
             ],
             "default": "10"
         }, {
